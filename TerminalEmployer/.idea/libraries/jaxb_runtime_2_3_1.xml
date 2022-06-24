@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="jaxb-runtime-2.3.1">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/hibernate/jaxb-runtime-2.3.1.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/jandex-2.0.5.Final.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/istack-commons-runtime-3.0.7.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/txw2-2.3.1.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/javax.persistence-api-2.2.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/stax-ex-1.8.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/jboss-transaction-api_1.2_spec-1.1.1.Final.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/classmate-1.5.1.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/jboss-logging-3.4.2.Final.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/dom4j-2.1.3.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/antlr-2.7.7.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/FastInfoset-1.2.15.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/hibernate-commons-annotations-5.0.5.Final.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/hibernate-core-5.3.27.Final.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/javassist-3.27.0-GA.jar!/" />
+      <root url="jar://C:/Program Files/Java/hibernate/byte-buddy-1.11.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

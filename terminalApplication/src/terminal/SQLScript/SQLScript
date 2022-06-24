@@ -1,0 +1,23 @@
+table 1
+create table password
+(
+    id        int auto_increment
+        primary key,
+    name      varchar(50) null,
+    lastname  varchar(50) null,
+    password  varchar(50) null,
+    person_id int         null,
+    constraint fk_1
+        foreign key (person_id) references countsals (person_id)
+            on delete cascade
+);
+
+table 2
+create table countsals
+(
+    id    int auto_increment
+        primary key,
+    price varchar(50) null,
+    fname varchar(50) null,
+    lname varchar(50) null
+);
